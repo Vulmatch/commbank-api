@@ -1,6 +1,7 @@
-#CommBank app.
+# CommBank app.
 
 I have redeveloped the Commbank API. Now users can enter their login credentials to download the transactions (within the recent two years). And they can Audit the transaction. This app was developed under my customer's request. My customer is a landlord and manage the house renting. He has several renters and their names should be put into the renters.cfg. Note that the name should match the account name shown in your commbank transaction for a match. 
+
 
 After downloading the transactions, you can audit the record, by looking at each transaction of each renter.
 
