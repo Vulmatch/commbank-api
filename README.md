@@ -5,6 +5,8 @@ I have redeveloped the Commbank API. Now users can enter their login credentials
 
 After downloading the transactions, you can audit the record, by looking at each transaction of each renter.
 
+Run python test.py or play with test.exe, which was transformed from py to exe by using pyinstaller.
+
 
 Below is their original readme
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
